@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ZScript logo">
+  <rect x="32" y="32" width="448" height="448" rx="48" fill="#f7df1e"/>
+  <path d="M112 162h288v42L208 350h192v42H112v-42l192-146H112z" fill="#141414"/>
+  <rect x="360" y="96" width="48" height="320" fill="#141414" opacity="0.18"/>
+</svg>
