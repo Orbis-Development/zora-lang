@@ -15,7 +15,7 @@ Security updates are currently provided for:
 Please use private reporting and do not open public issues for security problems.
 
 - Preferred: GitHub private vulnerability report  
-  `https://github.com/xlelord9292/zora-lang/security/advisories/new`
+  `https://github.com/Orbis-Development/zora-lang/security/advisories/new`
 - Alternative: email security contact if one is listed on the project website.
 
 When reporting, include:
