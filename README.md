@@ -68,11 +68,6 @@ zora add                      Install @orbis-development/zscript@0.2.2
 - Marketplace: https://marketplace.visualstudio.com/items?itemName=24a16e9b-852c-6551-839c-8dda114da3c6.zscript-vscode
 - Local source: [`vscode-extension/`](vscode-extension/)
 
-## Windows Installer (NSIS)
-
-- Build command: `build_installer.bat`
-- Output: `installer/ZScriptSetup-<version>.exe`
-- Compatibility copies: `installer/ZScriptSetup.exe` and `installer/ZoraSetup.exe`
 
 ## Security
 
